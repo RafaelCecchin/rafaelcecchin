@@ -8,7 +8,7 @@
 - Curso de Integração Contínua pela Full Cycle
 - Curso de Docker pela Full Cycle
 - Curso de Padrões e Técnicas Avançadas com Git e GitHub pela Full Cycle
-- Curso de Kubernetes
+- Curso de Kubernetes pela Full Cycle
 
 Estou sempre em busca de novos desafios e aprendizados para crescer profissionalmente e contribuir com a comunidade de desenvolvimento.
 
