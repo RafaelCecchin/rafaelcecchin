@@ -8,6 +8,7 @@
 - Curso de Integração Contínua pela Full Cycle
 - Curso de Docker pela Full Cycle
 - Curso de Padrões e Técnicas Avançadas com Git e GitHub pela Full Cycle
+- Curso de Kubernetes
 
 Estou sempre em busca de novos desafios e aprendizados para crescer profissionalmente e contribuir com a comunidade de desenvolvimento.
 
@@ -16,7 +17,7 @@ Estou sempre em busca de novos desafios e aprendizados para crescer profissional
 - **Linguagens:** PHP, JavaScript
 - **Frameworks:** Laravel, WordPress
 - **Banco de Dados:** MySQL, PostgreSQL
-- **DevOps:** Docker, Git, GitHub, Integração Contínua
+- **DevOps:** Docker, Git, GitHub, Integração Contínua, Kubernetes
 - **Outros:** APIs REST, HTML, CSS
 
 [![GitHub Followers](https://img.shields.io/github/followers/RafaelCecchin?label=Follow&style=social)](https://github.com/RafaelCecchin) 
