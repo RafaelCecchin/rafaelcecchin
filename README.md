@@ -5,12 +5,12 @@
 🚀 **Currently:** I work at **RCM Cabos Elétricos**, where I’m responsible for the development of the sales system and other internal projects. With 4 years of experience in the field, I have been continuously improving my skills to deliver robust and efficient solutions.
 
 🎓 **Recent Certifications:**
-- Continuous Integration Course by Full Cycle
-- Docker Course by Full Cycle
-- Advanced Git and GitHub Patterns and Techniques Course by Full Cycle
-- Kubernetes Course by Full Cycle
-- Domain-Driven Design Course
-- SOLID Principles Course
+- Continuous Integration
+- Docker
+- Kubernetes
+- Advanced Git and GitHub Patterns and Techniques
+- Domain-Driven Design
+- SOLID Principles
 
 I’m always looking for new challenges and learning opportunities to grow professionally and contribute to the development community.
 
