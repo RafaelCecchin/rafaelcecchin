@@ -1,24 +1,28 @@
-# Olá! Eu sou o Rafael Cecchin 👋
+# Hello! I’m Rafael Cecchin 👋
 
-💻 **Desenvolvedor de Software** com formação em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Paraná (IFPR).
+💻 **Software Developer** with a degree in Technology in Systems Analysis and Development from the Federal Institute of Paraná (IFPR).
 
-🚀 **Atualmente:** Trabalho na **RCM Cabos Elétricos**, onde sou responsável pelo desenvolvimento do sistema de vendas e outros projetos internos. Com 4 anos de experiência na área, tenho aprimorado continuamente minhas habilidades para entregar soluções robustas e eficientes.
+🚀 **Currently:** I work at **RCM Cabos Elétricos**, where I’m responsible for the development of the sales system and other internal projects. With 4 years of experience in the field, I have been continuously improving my skills to deliver robust and efficient solutions.
 
-🎓 **Certificações Recentes:**
-- Curso de Integração Contínua pela Full Cycle
-- Curso de Docker pela Full Cycle
-- Curso de Padrões e Técnicas Avançadas com Git e GitHub pela Full Cycle
-- Curso de Kubernetes pela Full Cycle
+🎓 **Recent Certifications:**
+- Continuous Integration Course by Full Cycle
+- Docker Course by Full Cycle
+- Advanced Git and GitHub Patterns and Techniques Course by Full Cycle
+- Kubernetes Course by Full Cycle
+- Domain-Driven Design Course
+- SOLID Principles Course
 
-Estou sempre em busca de novos desafios e aprendizados para crescer profissionalmente e contribuir com a comunidade de desenvolvimento.
+I’m always looking for new challenges and learning opportunities to grow professionally and contribute to the development community.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
-- **Linguagens:** PHP, JavaScript
+- **Languages:** PHP, JavaScript
 - **Frameworks:** Laravel, WordPress
-- **Banco de Dados:** MySQL, PostgreSQL
-- **DevOps:** Docker, Git, GitHub, Integração Contínua, Kubernetes
-- **Outros:** APIs REST, HTML, CSS
+- **Databases:** MySQL, PostgreSQL
+- **DevOps:** Docker, Continuous Integration, Kubernetes
+- **Others:** REST APIs, HTML, CSS, Git, GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcecchin&layout=compact)
 
 [![GitHub Followers](https://img.shields.io/github/followers/RafaelCecchin?label=Follow&style=social)](https://github.com/RafaelCecchin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-291-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafaelcecchin)
