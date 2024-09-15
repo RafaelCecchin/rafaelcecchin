@@ -11,6 +11,7 @@
 - Advanced Git and GitHub Patterns and Techniques
 - Domain-Driven Design
 - SOLID Principles
+- GitOps
 
 I’m always looking for new challenges and learning opportunities to grow professionally and contribute to the development community.
 
