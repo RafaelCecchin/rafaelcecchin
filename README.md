@@ -2,7 +2,7 @@
 
 💻 **Software Developer** with a degree in Technology in Systems Analysis and Development from the Federal Institute of Paraná (IFPR).
 
-🚀 **Currently:** I work at **RCM Cabos Elétricos**, where I’m responsible for the development of the sales system and other internal projects. With 4 years of experience in the field, I have been continuously improving my skills to deliver robust and efficient solutions.
+🚀 **Currently:** I work at **RCM Electrical Cables**, where I’m responsible for the development of the sales system and other internal projects. With 4 years of experience in the field, I have been continuously improving my skills to deliver robust and efficient solutions.
 
 🎓 **Recent Certifications:**
 - Continuous Integration
